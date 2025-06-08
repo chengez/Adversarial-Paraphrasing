@@ -81,6 +81,8 @@ bash scripts/transfer_test.sbatch > path_to_log_file.log
 
 > When run with SLURM, outputs are saved in SLURM logs. In local environments, redirect output to a file to capture results.
 
+The results include both the input and output texts, along with their detection scores. Lower scores indicate more 'human-like' content, while higher scores suggest more 'AI-generated' content.
+
 
 
 ## 🔁 Testing Other Detectors on Existing Outputs
