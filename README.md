@@ -1,7 +1,7 @@
 # Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text
 
 This repository contains the official implementation of **Adversarial Paraphrasing**, introduced in the paper:  
-📄 [_Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text_](https://arxiv.org/abs/xxxx)
+📄 [_Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text_](https://www.arxiv.org/abs/2506.07001)
 
 Adversarial Paraphrasing is a universal, training-free attack that humanizes AI-generated text to evade a wide variety of AI text detectors.
 
@@ -119,5 +119,13 @@ We provide utilities to evaluate the quality of the paraphrased texts using GPT-
 If you find our work useful, please consider citing us via:
 
 ```bibtex
-
+@misc{cheng2025adversarialparaphrasinguniversalattack,
+      title={Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text}, 
+      author={Yize Cheng and Vinu Sankar Sadasivan and Mehrdad Saberi and Shoumik Saha and Soheil Feizi},
+      year={2025},
+      eprint={2506.07001},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.07001}, 
+}
 ```
